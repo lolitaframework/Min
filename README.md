@@ -1,1 +1,3 @@
 # Min
+
+Module for LolitaFramework.
